@@ -1,0 +1,7 @@
+# Compiled Source #
+
+*.o
+*.exe
+*.so
+mdriver
+Makefile~
